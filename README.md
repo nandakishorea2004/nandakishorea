@@ -67,7 +67,7 @@ A Flutter and Firebase-based campus event management application that digitizes 
 
 **Tech Stack:** Flutter • Dart • Firebase • Firestore • Cloud Functions 
 
-💻 **GitHub:** [Repository](YOUR_CAMPUSCONNECT_REPO)
+💻 **GitHub:** [Repository](https://github.com/nandakishorea2004/CampusConnect)
 
 ---
 
