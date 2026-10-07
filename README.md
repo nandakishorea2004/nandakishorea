@@ -65,7 +65,7 @@ A Flutter and Firebase-based campus event management application that digitizes 
 - Notifications
 - Third-party map API integration
 
-**Tech Stack:** Flutter • Dart • Firebase • Firestore • Cloud Functions • OpenRouteService API
+**Tech Stack:** Flutter • Dart • Firebase • Firestore • Cloud Functions 
 
 💻 **GitHub:** [Repository](YOUR_CAMPUSCONNECT_REPO)
 
