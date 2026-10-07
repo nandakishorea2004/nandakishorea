@@ -77,7 +77,7 @@ A machine learning project that analyzes demographic, personality and behavioral
 
 **Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Machine Learning
 
-💻 **GitHub:** [Repository](YOUR_DRUG_PROJECT_REPO)
+💻 **GitHub:** [Repository](https://github.com/nandakishorea2004/Drug-Consumption-Prediction)
 
 ---
 
