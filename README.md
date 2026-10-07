@@ -106,7 +106,7 @@ A web-based application developed for managing employee leave requests and maint
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nandakishore-a-523943257)
 - 🌐 Portfolio: [Portfolio](YOUR_PORTFOLIO_URL)
 - 📧 Email: YOUR_EMAIL
 - 💻 GitHub: [@nandakishorea2004](https://github.com/nandakishorea2004)
