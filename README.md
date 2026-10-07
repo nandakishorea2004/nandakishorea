@@ -87,7 +87,7 @@ A web-based application developed for managing employee leave requests and maint
 
 **Tech Stack:** PHP • MySQL • HTML • CSS • JavaScript
 
-💻 **GitHub:** [Repository](YOUR_LEAVE_PROJECT_REPO)
+💻 **GitHub:** [Repository](https://github.com/nandakishorea2004/leave-management-portal)
 
 ---
 
