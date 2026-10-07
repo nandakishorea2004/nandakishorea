@@ -48,8 +48,7 @@ A modern developer portfolio built to showcase my skills, projects, experience a
 
 **Tech Stack:** Next.js • React • Tailwind CSS • JavaScript
 
-🔗 **Live:** [Portfolio](YOUR_PORTFOLIO_URL)  
-💻 **GitHub:** [Repository](YOUR_REPOSITORY_URL)
+🔗 **Live:** [Portfolio](https://nandakishorea2004.github.io/Nandakishore-Portfolio-org/)  
 
 ---
 
