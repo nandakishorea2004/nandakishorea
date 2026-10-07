@@ -107,8 +107,8 @@ A web-based application developed for managing employee leave requests and maint
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nandakishore-a-523943257)
-- 🌐 Portfolio: [Portfolio](YOUR_PORTFOLIO_URL)
-- 📧 Email: YOUR_EMAIL
+- 🌐 Portfolio: [Portfolio](https://nandakishorea2004.github.io/Nandakishore-Portfolio-org/)
+- 📧 Email: nandakishorea411@gmail.com
 - 💻 GitHub: [@nandakishorea2004](https://github.com/nandakishorea2004)
 
 ---
